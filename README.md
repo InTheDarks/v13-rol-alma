@@ -2,7 +2,7 @@
 
 Covid-19 Codeye Ait v13 Buttonlu Rol Alma/Verme Ssistemi.
 
-[Covid-19 Code](https://discord.gg/vGWzypUvRt) && ⍭ InTheDark#0001
+[Covid-19 Code](https://discord.gg/vGWzypUvRt) && ``⍭ InTheDark#0001``
 
 - main bölümünü doldurunuz.
 - ..\src\commands\rolbutton.js yi kendinize göre ayarlayınız.
